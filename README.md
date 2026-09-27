@@ -4,8 +4,8 @@ A personal portfolio website showcasing my skills, projects, internships, certif
 
 ## Technologies
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 
 ## Featured Projects
 
