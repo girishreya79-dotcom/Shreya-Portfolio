@@ -23,11 +23,6 @@ C · C++ · Java · Python · HTML · CSS · JavaScript · Bootstrap · PHP · M
 2. Keep all project files in the same folder.
 3. Open `index.html` in your browser.
 
-## Contact
-
-**Shreya Kumari**
-Email: [girishreya79@gmail.com](mailto:girishreya79@gmail.com)
-GitHub: https://github.com/girishreya79-dotcom
 
 ---
 
